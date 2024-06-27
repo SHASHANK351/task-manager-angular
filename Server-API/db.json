@@ -1,0 +1,26 @@
+{
+  "login": {
+    "userName": "admin",
+    "password": "admin"
+  },
+  "tasks": [
+    {
+      "id": "9e29a4df-2cc9-4336-94ef-e839c3d69afa",
+      "title": "Task 1",
+      "desc": "Nothing just desc 1",
+      "status": "To Do"
+    },
+    {
+      "id": "48772cd8-014e-4021-b1b1-c418dd325d78",
+      "title": "Task 2",
+      "desc": "Dummy Task desc 2",
+      "status": "In Progress"
+    },
+    {
+      "id": "719d1109-fb9c-4831-8a28-1f65f21724e9",
+      "title": "Task 3",
+      "desc": "Task 3 desc 3",
+      "status": "Done"
+    }
+  ]
+}

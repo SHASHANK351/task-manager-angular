@@ -1,0 +1,4 @@
+<block-ui>
+  <app-login *ngIf="!(authenticated | async)"></app-login>
+  <router-outlet *ngIf="authenticated | async"></router-outlet>
+</block-ui>
